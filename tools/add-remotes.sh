@@ -37,7 +37,9 @@ case "$1" in
   ;;
 
 (sqlline)
+  foo sqlline bpoweski
   foo sqlline fineo-io
+  foo sqlline mmattozzi
   ;;
 
 (mondrian)
@@ -46,6 +48,7 @@ case "$1" in
 
 (avatica|calcite-avatica)
   foo calcite-avatica joshelser
+  foo calcite-avatica julianhyde
   ;;
 
 (calcite)
@@ -61,6 +64,7 @@ case "$1" in
   foo calcite amansinha100 incubator-calcite
   foo calcite amihalik
   foo calcite amoghmargoor incubator-calcite
+  foo calcite ankitsinghal
   foo calcite apache incubator-calcite
   foo calcite arina-ielchiieva
   foo calcite arunmahadevan
@@ -71,7 +75,9 @@ case "$1" in
   foo calcite chandnisingh
   foo calcite chinmaykolhatkar
   foo calcite chrajeshbabu
+  foo calcite Contiamo
   foo calcite d4nc00per incubator-calcite
+  foo calcite darionyaphet
   foo calcite devth incubator-calcite
   foo calcite dingguitao incubator-calcite
   foo calcite docete
@@ -83,6 +89,7 @@ case "$1" in
   foo calcite gaodayue
   foo calcite georgewfraser
   foo calcite gianm
+  foo calcite Gkairi
   foo calcite gparai
   foo calcite haohui
   foo calcite HeartSaVioR
@@ -100,7 +107,9 @@ case "$1" in
   foo calcite julianhyde
   foo calcite jxiang
   foo calcite kliewkliew
+  foo calcite kstirman
   foo calcite KurtYoung
+  foo calcite Kyligence
   foo calcite lalinsky incubator-calcite
   foo calcite laurentgo
   foo calcite Lerm
@@ -121,11 +130,14 @@ case "$1" in
   foo calcite riccardotommasini
   foo calcite risdenk
   foo calcite rmetzger optiq
+  foo calcite rtudoran
   foo calcite rusanu
   foo calcite sbcd90
+  foo calcite sergeysimonov
   foo calcite Serhii-Harnyk
   foo calcite smola incubator-calcite
   foo calcite sudheeshkatkam incubator-calcite
+  foo calcite sunjincheng121
   foo calcite tedxu
   foo calcite tmostak
   foo calcite tzolov
